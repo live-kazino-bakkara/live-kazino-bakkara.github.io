@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: live-kazino-bakkara.github.io
+Sitemap: https://live-kazino-bakkara.github.io/sitemap.xml
